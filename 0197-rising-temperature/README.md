@@ -46,3 +46,4 @@ Weather table:
 In 2015-01-02, the temperature was higher than the previous day (10 -&gt; 25).
 In 2015-01-04, the temperature was higher than the previous day (20 -&gt; 30).
 </pre>
+------------------------
